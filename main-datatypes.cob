@@ -36,4 +36,18 @@ PROCEDURE DIVISION.
 MOVE "123Connor Brady        01031999" TO Customer
 DISPLAY CustomerName
 
+*> COMPUTE = Answer = X + Y 
+*> COMPUTE = Answer = X - Y 
+*> COMPUTE = Answer = ** to the power of - Ans = X ** 2 
+*> COMPUTE = Answer ROUNDED = 3.0 + 2.005
+
+*> ADD
+*> ADD X, Y TO Z GIVING Answer
+*> ADD X, Y, Z GIVING Answer
+
+*> SUBTRACT - FROM 
+*> MULTIPLY - BY
+*> DIVIDE - INTO - REMAINDER REM (To get remainder)
+*> 
+
 STOP RUN.
